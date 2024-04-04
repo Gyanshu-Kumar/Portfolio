@@ -24,6 +24,13 @@ export const getContacts = function (): ContactItemProps[] {
       },
     },
     {
+      title: 'Leetcode',
+      link: {
+        display: 'Gyanshu Kumar',
+        url: 'https://leetcode.com/Gyanshu152/',
+      },
+    },
+    {
       title: 'Instagram',
       link: {
         display: 'Gyanshu Kumar',
