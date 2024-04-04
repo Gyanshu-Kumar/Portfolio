@@ -3,9 +3,9 @@ import { BlogProps } from '@/pages/blog';
 export const getBlogs = function (): BlogProps[] {
   return [
     {
-      title: 'Git & Github',
+      title: 'Introduction to REST_API',
       linkType: 'external',
-      link: 'https://www.linkedin.com/posts/gyanshu-kumar_git-github-activity-7160584760287805441-5kxK?utm_source=share&utm_medium=member_desktop/',
+      link: 'https://dev.to/gyanshukumar/introduction-to-restapi-1i4k/',
       publishedAt: {
         year: 2024,
       },
