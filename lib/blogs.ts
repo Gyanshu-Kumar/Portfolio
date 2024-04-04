@@ -3,7 +3,7 @@ import { BlogProps } from '@/pages/blog';
 export const getBlogs = function (): BlogProps[] {
   return [
     {
-      title: 'Introduction to REST_API',
+      title: '🚀🚀Introduction to REST_API🚀🚀',
       linkType: 'external',
       link: 'https://dev.to/gyanshukumar/introduction-to-restapi-1i4k/',
       publishedAt: {
