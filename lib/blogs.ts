@@ -11,6 +11,14 @@ export const getBlogs = function (): BlogProps[] {
       },
     },
     {
+      title: '🚀🚀Introduction to WebSocket🚀🚀',
+      linkType: 'external',
+      link: 'https://dev.to/gyanshukumar/introduction-to-web-socket-396d/',
+      publishedAt: {
+        year: 2024,
+      },
+    },
+    {
       title: '🚀What is MERN Stack🚀',
       linkType: 'external',
       link: 'https://www.linkedin.com/posts/gyanshu-kumar_mern-document-activity-7159494758938075137-7NSz?utm_source=share&utm_medium=member_desktop/',
