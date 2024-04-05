@@ -21,7 +21,7 @@ const Crafts: React.FunctionComponent = () => {
   return (
     <>
       <MetaHead
-        title={'Activity | Sanket kalekar'}
+        title={'Activity | Gyanshu Kumar'}
         description={'A Collection of Hand-Crafted Frontend UI Components.'}
         embedSource={{
           twitter:
@@ -43,7 +43,7 @@ const Crafts: React.FunctionComponent = () => {
                 <p>To check out my all certification </p>
                 <Button
                   className="mt-3"
-                  onClick={() => window.open('https://www.linkedin.com/in/sanketkalekar/details/certifications/')}>
+                  onClick={() => window.open('https://www.linkedin.com/in/Gyanshu-kumar/')}>
                   Visit My certification
                 </Button>
               </div>
