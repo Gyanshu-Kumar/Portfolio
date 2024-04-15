@@ -19,6 +19,14 @@ export const getBlogs = function (): BlogProps[] {
       },
     },
     {
+      title: '🚀🚀Authentication Using Passport.org🚀🚀',
+      linkType: 'external',
+      link: 'https://dev.to/gyanshukumar/authentication-using-passport-mg3/',
+      publishedAt: {
+        year: 2024,
+      },
+    },
+    {
       title: '🚀What is MERN Stack🚀',
       linkType: 'external',
       link: 'https://www.linkedin.com/posts/gyanshu-kumar_mern-document-activity-7159494758938075137-7NSz?utm_source=share&utm_medium=member_desktop/',
