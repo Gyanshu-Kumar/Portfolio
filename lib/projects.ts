@@ -2,7 +2,26 @@ import { ProjectItemProps } from '@/components/main/ProjectSection';
 
 export const getProjects = function (): ProjectItemProps[] {
   let projects: ProjectItemProps[] = [
-  
+    {
+      projectTitle: 'REST API',
+      projectData: {
+        githubURL: 'https://github.com/Gyanshu-Kumar/_Rest_API',
+        relatedLinks: [
+        
+        ],
+      },
+      description: [
+        'Developed a REST API for a social media application using Node.js, Express, MongoDB, and Mongoose',
+        'Implemented user authentication and authorization using JWT, and password hashing with bcrypt',
+        'Designed and developed API endpoints for user registration, login, and post creation, enabling seamless user interaction and data management',
+        'Tech stack includes:-  NextJS, ReactJS, and NodeJS',
+
+      ],
+      tech: ['NodeJS', 'Express', 'MongoDB', 'Mongoose', 'JWT', 'bcrypt', 'Postman'],
+      category: ['Extension'],
+      status: 'Maintained',
+    },
+
     {
       projectTitle: 'Kode Keeper',
       projectData: {

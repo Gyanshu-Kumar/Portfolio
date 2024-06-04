@@ -13,6 +13,16 @@ export const getCrafts = function (): CraftProps[] {
      linkType: 'internal',
       craftSlug: 'nothing to show go back!!',
     }
+    ,{
+      craftTitle: '- Sucessfully completed Oracle cloud Infrastructure Generative AI 2024',
+      linkType: 'internal',
+       craftSlug: 'nothing to show go back!!',
+     }
+     ,{
+      craftTitle: '- Sucessfully completed quicklabs on Google Cloud Platform 2024',
+      linkType: 'internal',
+       craftSlug: 'nothing to show go back!!',
+     }
   ];
 };
 
