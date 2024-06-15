@@ -11,12 +11,12 @@ const HeroSection: React.FunctionComponent = () => {
       <Header />
       <Section>
         <h2 className="about-heading leading-snug font-medium text-base text-zinc-900">
-          {'about me.'}
+          {'About me.'}
         </h2>
         <div className="about-content-wrapper leading-6 text-sm font-normal text-zinc-500 mt-4">
           <p>
             {
-              'Hey! I am an Software engineer, learning how to build and design scalable websites and applications. My focus is to build with better user experience, design aesthetic, good developer experience and meaningful impact.'
+              'As a final-year B.Tech Computer Science student, I am passionate about leveraging technology to create scalable, user-centric websites and applications. With a keen eye for design aesthetics and a commitment to enhancing user and developer experiences, I strive to deliver impactful solutions that combine functionality with visual appeal. My academic background and practical experiences have equipped me with the skills and knowledge to contribute effectively to the ever-evolving field of software engineering.'
             }
           </p>
         </div>
